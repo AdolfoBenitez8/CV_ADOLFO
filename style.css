@@ -16,10 +16,10 @@
 }
 
 .floated {
-    display: inline-block;
     position: relative;
-    /* float: left; */
+    float: left; 
 }
+
 
 .abs-center {
     position: absolute;
